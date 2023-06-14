@@ -1,4 +1,5 @@
 # Python-Web-Scraping-2
+My first web scraping and automation script with Selenium and Python.
 
 Simple app that scrape data from "www.aruodas.lt", fills up search form and creates .txt file with found houses in Lithuania.
 
